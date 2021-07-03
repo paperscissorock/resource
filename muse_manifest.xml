@@ -1,0 +1,185 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409753707628">
+  <folder name="css">
+    <file name="site_global.css" crc="4132397237"/>
+    <file name="master_a-master.css" crc="4182866646" ref="interview:pal-toth-interview:index:redefined:review:react:festivals:tyszkiewicz-interview:resource-festival-2014"/>
+    <file name="interview.css" crc="4254150148" ref="interview"/>
+    <file name="iefonts_interview.css" crc="4065207522" ref="interview"/>
+    <file name="pal-toth-interview.css" crc="344678513" ref="pal-toth-interview"/>
+    <file name="iefonts_pal-toth-interview.css" crc="3799556229" ref="pal-toth-interview"/>
+    <file name="index.css" crc="4211879181" ref="index"/>
+    <file name="iefonts_index.css" crc="367257156" ref="index"/>
+    <file name="redefined.css" crc="3914627593" ref="redefined"/>
+    <file name="iefonts_redefined.css" crc="4082538567" ref="redefined"/>
+    <file name="review.css" crc="4243265449" ref="review"/>
+    <file name="iefonts_review.css" crc="493906046" ref="review"/>
+    <file name="react.css" crc="4046510504" ref="react"/>
+    <file name="iefonts_react.css" crc="474731462" ref="react"/>
+    <file name="festivals.css" crc="43495633" ref="festivals"/>
+    <file name="iefonts_festivals.css" crc="367725491" ref="festivals"/>
+    <file name="tyszkiewicz-interview.css" crc="4060888319" ref="tyszkiewicz-interview"/>
+    <file name="iefonts_tyszkiewicz-interview.css" crc="4168443980" ref="tyszkiewicz-interview"/>
+    <file name="resource-festival-2014.css" crc="108589870" ref="resource-festival-2014"/>
+    <file name="iefonts_resource-festival-2014.css" crc="261318569" ref="resource-festival-2014"/>
+  </folder>
+  <folder name="assets">
+    <file name="elektra.mp3" crc="4241247913" mt="1406116271000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="museutils.js" crc="4136605575" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="jquery.scrolleffects.js" crc="4183300935" ref="pal-toth-interview:tyszkiewicz-interview:review"/>
+    <file name="jquery.watch.js" crc="172956391" ref="pal-toth-interview:festivals:tyszkiewicz-interview:review:resource-festival-2014"/>
+    <file name="pie.js" crc="3827607177" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="webpro.js" crc="420478120" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="form_check.php" crc="313295658" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="form_throttle.php" crc="254134657" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="form_process.php" crc="304694956" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="form-u8826.php" crc="526762749" ref="pal-toth-interview"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="touchswipe.js" crc="60020316" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="form-u5986.php" crc="493951092" ref="interview"/>
+    <file name="form-u4894.php" crc="4002612679" ref="festivals"/>
+    <file name="form-u8863.php" crc="4111560908" ref="tyszkiewicz-interview"/>
+    <file name="form-u5669.php" crc="173404696" ref="index"/>
+    <file name="form-u6241.php" crc="292184821" ref="react"/>
+    <file name="form-u8222.php" crc="3782904562" ref="review"/>
+    <file name="form-u9056.php" crc="435957970" ref="redefined"/>
+    <file name="form-u9595.php" crc="412006997" ref="resource-festival-2014"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4241201187" ref="pal-toth-interview"/>
+    <file name="pal-toth.jpg" crc="321061719" ref="pal-toth-interview"/>
+    <file name="chop1.jpg" crc="169908093" ref="pal-toth-interview"/>
+    <file name="chop3.jpg" crc="4231707145" ref="pal-toth-interview"/>
+    <file name="pal-toth-sm.jpg" crc="362617796" ref="pal-toth-interview"/>
+    <file name="u8838-17.png" crc="9995633" ref="pal-toth-interview"/>
+    <file name="u8838-17-r.png" crc="485262571" ref="pal-toth-interview"/>
+    <file name="u8838-17-m.png" crc="4102262645" ref="pal-toth-interview"/>
+    <file name="u8838-17-fs.png" crc="4251314166" ref="pal-toth-interview"/>
+    <file name="respond_btn-white.png" crc="522486067" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="respond_btn-grey.png" crc="148228609" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="logo.png" crc="4109010769" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:react:review:redefined:resource-festival-2014"/>
+    <file name="react_btn-white.png" crc="115147971" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="react_btn-grey.png" crc="4137168390" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="review_btn-white.png" crc="79555819" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="review_btn-grey.png" crc="376832698" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="read_btn-white.png" crc="219704168" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="read_btn-grey.png" crc="4022895886" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="relive_btn-white.png" crc="175434260" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="relive_btn-grey.png" crc="4183412104" ref="pal-toth-interview:interview:festivals:tyszkiewicz-interview:index:react:review:redefined:resource-festival-2014"/>
+    <file name="chop2.jpg" crc="173918134" ref="pal-toth-interview"/>
+    <file name="home-1.jpg" crc="268281397" ref="interview:index"/>
+    <file name="blank.gif" crc="4208392903" ref="interview:festivals:tyszkiewicz-interview:index:redefined"/>
+    <file name="read-back3.jpg" crc="4195721247" ref="interview:index"/>
+    <file name="read-back2.jpg" crc="428206466" ref="interview:index"/>
+    <file name="read-back.jpg" crc="170946325" ref="interview:index"/>
+    <file name="loading.gif" crc="3815509949" ref="interview:festivals:tyszkiewicz-interview:index:redefined"/>
+    <file name="u5995-17.png" crc="9995633" ref="interview"/>
+    <file name="u5995-17-r.png" crc="485262571" ref="interview"/>
+    <file name="u5995-17-m.png" crc="4102262645" ref="interview"/>
+    <file name="u5995-17-fs.png" crc="4251314166" ref="interview"/>
+    <file name="facebook-manzana.png" crc="3828820757" ref="interview:festivals:index:react:review:redefined:resource-festival-2014"/>
+    <file name="facebook-manzana-u8949-a-fr.png" crc="340714427" ref="interview:festivals:index:react:review:redefined:resource-festival-2014"/>
+    <file name="graph.png" crc="437074285" ref="interview:review:resource-festival-2014"/>
+    <file name="more_btn-u5795-fr.png" crc="3887281971" ref="interview"/>
+    <file name="more_btn-u5795-r-fr.png" crc="4159400811" ref="interview"/>
+    <file name="home-page3.jpg" crc="193562573" ref="festivals:index"/>
+    <file name="gb-1.jpg" crc="4272379695" ref="festivals"/>
+    <file name="nm-8.jpg" crc="4168381917" ref="festivals"/>
+    <file name="u4896-17.png" crc="9995633" ref="festivals"/>
+    <file name="u4896-17-r.png" crc="485262571" ref="festivals"/>
+    <file name="u4896-17-m.png" crc="4102262645" ref="festivals"/>
+    <file name="u4896-17-fs.png" crc="4251314166" ref="festivals"/>
+    <file name="foh-43.jpg" crc="3894948649" ref="festivals"/>
+    <file name="foh-42.jpg" crc="268850528" ref="festivals"/>
+    <file name="foh-41.jpg" crc="207430465" ref="festivals"/>
+    <file name="foh-40.jpg" crc="3974641872" ref="festivals"/>
+    <file name="foh-4.jpg" crc="170296782" ref="festivals"/>
+    <file name="gb-13.jpg" crc="4166368643" ref="festivals"/>
+    <file name="kc-2.jpg" crc="26257588" ref="festivals"/>
+    <file name="t-g-4.jpg" crc="131436457" ref="festivals"/>
+    <file name="zs-5.jpg" crc="202086223" ref="festivals"/>
+    <file name="gb-6.jpg" crc="536365482" ref="festivals"/>
+    <file name="gb-1223x149.jpg" crc="4175485839" ref="festivals"/>
+    <file name="nm-8223x149.jpg" crc="534193706" ref="festivals"/>
+    <file name="foh-43223x149.jpg" crc="162107983" ref="festivals"/>
+    <file name="foh-42223x149.jpg" crc="26560740" ref="festivals"/>
+    <file name="foh-41223x149.jpg" crc="4222963706" ref="festivals"/>
+    <file name="foh-40223x149.jpg" crc="3801988794" ref="festivals"/>
+    <file name="foh-4223x149.jpg" crc="265338546" ref="festivals"/>
+    <file name="gb-13223x149.jpg" crc="421904630" ref="festivals"/>
+    <file name="kc-2223x149.jpg" crc="155771474" ref="festivals"/>
+    <file name="t-g-4223x149.jpg" crc="288489670" ref="festivals"/>
+    <file name="zs-5223x149.jpg" crc="4211985121" ref="festivals"/>
+    <file name="gb-6223x149.jpg" crc="113627826" ref="festivals"/>
+    <file name="interview 2.jpg" crc="182178179" ref="tyszkiewicz-interview"/>
+    <file name="interview-24.jpg" crc="3885846999" ref="tyszkiewicz-interview"/>
+    <file name="untitled-1.jpg" crc="194263365" ref="tyszkiewicz-interview"/>
+    <file name="u8875-17.png" crc="9995633" ref="tyszkiewicz-interview"/>
+    <file name="u8875-17-r.png" crc="485262571" ref="tyszkiewicz-interview"/>
+    <file name="u8875-17-m.png" crc="4102262645" ref="tyszkiewicz-interview"/>
+    <file name="u8875-17-fs.png" crc="4251314166" ref="tyszkiewicz-interview"/>
+    <file name="home-2.jpg" crc="166194468" ref="index:react"/>
+    <file name="animate1.gif" crc="4274401267" ref="index"/>
+    <file name="animate2.gif" crc="4261005807" ref="index"/>
+    <file name="animate3.gif" crc="313001642" ref="index"/>
+    <file name="hp_logo.png" crc="231399960" ref="index"/>
+    <file name="button-2014.png" crc="4150635045" ref="index"/>
+    <file name="december-2014.png" crc="125815164" ref="index"/>
+    <file name="redefined_btn-re-defined white.png" crc="357172202" ref="index"/>
+    <file name="redefined_btn-re-defined grey.png" crc="152756198" ref="index"/>
+    <file name="u5685-17.png" crc="9995633" ref="index"/>
+    <file name="u5685-17-r.png" crc="485262571" ref="index"/>
+    <file name="u5685-17-m.png" crc="4102262645" ref="index"/>
+    <file name="u5685-17-fs.png" crc="4251314166" ref="index"/>
+    <file name="u6247-17.png" crc="9995633" ref="react"/>
+    <file name="u6247-17-r.png" crc="485262571" ref="react"/>
+    <file name="u6247-17-m.png" crc="4102262645" ref="react"/>
+    <file name="u6247-17-fs.png" crc="4251314166" ref="react"/>
+    <file name="fdlogo-276x300-u6264-fr.jpg" crc="4194958360" ref="react"/>
+    <file name="psound.jpg" crc="4266393200" ref="react"/>
+    <file name="logo_axe.jpg" crc="210625133" ref="react"/>
+    <file name="u9300-grad.png" crc="4062477321" ref="review"/>
+    <file name="u8234-17.png" crc="9995633" ref="review"/>
+    <file name="u8234-17-r.png" crc="485262571" ref="review"/>
+    <file name="u8234-17-m.png" crc="4102262645" ref="review"/>
+    <file name="u8234-17-fs.png" crc="4251314166" ref="review"/>
+    <file name="gaap kvlt.jpg" crc="316873783" ref="review"/>
+    <file name="wiezelfabryk cel i szwiato -u9302-fr.jpg" crc="3975282049" ref="review"/>
+    <file name="r-150-5339467-1390933538-5093.jpg" crc="4140454088" ref="review"/>
+    <file name="micromelancolie-u9304-fr.jpg" crc="3837476847" ref="review"/>
+    <file name="boleslaw wawrzyn ii .jpg" crc="3868089205" ref="review"/>
+    <file name="dwutysieczny jedwabnik .jpg" crc="72253702" ref="review"/>
+    <file name="r-150-5053772-1383477408-3077.jpg" crc="71099164" ref="review"/>
+    <file name="more_btn-vector smart object.png" crc="4049071128" ref="review"/>
+    <file name="more_btn-vector smart object copy.png" crc="3762167457" ref="review"/>
+    <file name="resource-mag_re-defined5.jpg" crc="4160729485" ref="redefined"/>
+    <file name="resource-mag_re-defined4.jpg" crc="4268413265" ref="redefined"/>
+    <file name="resource-mag_re-defined3.jpg" crc="4200884069" ref="redefined"/>
+    <file name="resource-mag_re-defined2.jpg" crc="4064778478" ref="redefined"/>
+    <file name="resource-mag_re-defined.jpg" crc="3923615405" ref="redefined"/>
+    <file name="u9072-17.png" crc="9995633" ref="redefined"/>
+    <file name="u9072-17-r.png" crc="485262571" ref="redefined"/>
+    <file name="u9072-17-m.png" crc="4102262645" ref="redefined"/>
+    <file name="u9072-17-fs.png" crc="4251314166" ref="redefined"/>
+    <file name="u9567-grad.png" crc="4130504994" ref="resource-festival-2014"/>
+    <file name="u9600-17.png" crc="9995633" ref="resource-festival-2014"/>
+    <file name="u9600-17-r.png" crc="485262571" ref="resource-festival-2014"/>
+    <file name="u9600-17-m.png" crc="4102262645" ref="resource-festival-2014"/>
+    <file name="u9600-17-fs.png" crc="4251314166" ref="resource-festival-2014"/>
+    <file name="ramleh.jpg" crc="487809181" ref="resource-festival-2014"/>
+    <file name="micromelancolie.jpg" crc="1453469" ref="resource-festival-2014"/>
+    <file name="gaap.jpg" crc="3923695541" ref="resource-festival-2014"/>
+  </folder>
+  <file name="pal-toth-interview.html" crc="125295760" mt="1409742629965" redirect="true"/>
+  <file name="interview.html" crc="426691101" mt="1409742629966" redirect="true"/>
+  <file name="festivals.html" crc="43084723" mt="1409743409343" redirect="true"/>
+  <file name="tyszkiewicz-interview.html" crc="214108957" mt="1409742629974" redirect="true"/>
+  <file name="index.html" crc="4249471489" mt="1409742629976" redirect="true"/>
+  <file name="react.html" crc="3952046307" mt="1409742629977" redirect="true"/>
+  <file name="review.html" crc="437011435" mt="1409742629978" redirect="true"/>
+  <file name="redefined.html" crc="435701466" mt="1409742629980" redirect="true"/>
+  <file name="resource-festival-2014.html" crc="4145070679" mt="1409752368644" redirect="true"/>
+</manifest>
